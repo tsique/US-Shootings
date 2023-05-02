@@ -11,3 +11,5 @@ https://www.kaggle.com/datasets/ramjasmaurya/us-police-shootings-from-20152022
 
 # Dashboard
 Final dashboard was made using Tableau Public. The link to it can be found here:
+
+https://public.tableau.com/app/profile/tammy8669/viz/USPoliceShootings2015-2022_16829944178940/USPoliceShootings?publish=yes
